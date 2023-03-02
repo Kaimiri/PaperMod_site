@@ -2,3 +2,15 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
+
+
+params:
+    homeInfoParams:
+        Title: Hi there wave
+        Content: Can be Info, links, about...
+
+    socialIcons: # optional
+        - name: "<linkedin>"
+            url: "<link>"
+        - name: "<instagram>"
+            url: "<link2>"
