@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://jamessutherland.netlify.app'
+languageCode = 'en-uk'
 title = 'James Sutherland'
 theme = "PaperMod"
 
