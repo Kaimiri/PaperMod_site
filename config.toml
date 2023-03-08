@@ -20,7 +20,7 @@ ShowCodeCopyButtons = true
   [[menu.main]]
     identifier = "websitecarbon"
     name = "This Website's Carbon"
-    url = "https://www.websitecarbon.com"
+    url = "https://www.websitecarbon.com/website/jamessutherland-netlify-app/"
     weight = 10
   [[menu.main]]
     identifier = "archive"
@@ -30,19 +30,19 @@ ShowCodeCopyButtons = true
 
 
 [params.homeInfoParams]
-Title = "Hi there 👋"
-Content = "So glad you're here"
+Title = "Welcome!"
+Content = "So glad you're here 🌟"
 [[buttons]]
 name = "Search"
 url = "/search/"
 
 [[params.socialIcons]]
-name = "github"
+name = "youtube"
 url = "<link>"
 
 [[params.socialIcons]]
 name = "instagram"
-url = "https://tesco.com"
+url = "https://www.instagram.com/jamessuthers/"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
