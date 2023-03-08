@@ -20,6 +20,6 @@ However it happened, I am so glad you're here
 ### Who am I?
 My name is James 🌟 a Jesus-following, piano-playing, Computer Scientist writing blog posts on anything I find interesting
 
-#### Why should you care?
-If you like or are curious about worship, prophecy, Christianity or studying Maths, Physics or Computer Science, stick around; see what you will find!
+### Why should you care?
+If you are curious about Christianity, worship, or prophecy, or you’re studying Maths, Physics, or Computer Science, then stick around and see what you find :)
 

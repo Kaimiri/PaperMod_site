@@ -37,10 +37,6 @@ name = "Search"
 url = "/search/"
 
 [[params.socialIcons]]
-name = "youtube"
-url = "<link>"
-
-[[params.socialIcons]]
 name = "instagram"
 url = "https://www.instagram.com/jamessuthers/"
 
