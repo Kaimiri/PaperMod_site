@@ -3,12 +3,12 @@ title: "About"
 date: 2023-03-02T19:53:44Z
 draft: false
 cover:
-    image: "/Users/jamessutherland/Documents/Kings/EPQ/portfolio2/portfolio/resources/_gen/images/Me_on_a_Portuguese_mountain.jpg"
+    image: "../images/Me_on_a_Portuguese_mountain.png"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "James Sutherland standing on a mountain with arms stretched out sideways"
     caption: "This is me in Madeira, Portugal"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## Hello friend <3
