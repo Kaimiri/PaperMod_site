@@ -37,8 +37,17 @@ name = "Search"
 url = "/search/"
 
 [[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/james-sutherland-17879026a/"
+
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/profile.php?id=100005312989146"
+
+[[params.socialIcons]]
 name = "instagram"
 url = "https://www.instagram.com/jamessuthers/"
+
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
